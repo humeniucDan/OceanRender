@@ -1,0 +1,3 @@
+C:/UTCN/an3/sem1/pg/proj/proj/cmake-build-debug/CMakeFiles/OpenGL4_HelloWindow.dir
+C:/UTCN/an3/sem1/pg/proj/proj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/UTCN/an3/sem1/pg/proj/proj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
